@@ -1,637 +1,637 @@
 ,Country,Number,Month
-0,Nombre de viatgers            ,436.044,January
-1,     residents a Espanya       ,118.814,January
-2,     residents a l'estranger       ,317.23,January
-3,          Alemanya  ,21.369,January
-4,          Àustria  ,2.881,January
-5,          Bèlgica  ,5.932,January
+0,Nombre de viatgers            ,436044.0,January
+1,     residents a Espanya       ,118814.0,January
+2,     residents a l'estranger       ,317230.0,January
+3,          Alemanya  ,21369.0,January
+4,          Àustria  ,2881.0,January
+5,          Bèlgica  ,5932.0,January
 6,          Bulgària  ,683.0,January
 7,          Xipre  ,291.0,January
 8,          Croàcia  ,438.0,January
-9,          Dinamarca  ,2.696,January
+9,          Dinamarca  ,2696.0,January
 10,          Eslovàquia  ,531.0,January
 11,          Eslovènia  ,406.0,January
 12,          Estònia  ,278.0,January
-13,          Finlàndia  ,2.824,January
-14,          França  ,37.162,January
-15,          Grècia  ,1.644,January
-16,          Hongria  ,1.277,January
-17,          Irlanda  ,5.095,January
-18,          Itàlia  ,31.652,January
+13,          Finlàndia  ,2824.0,January
+14,          França  ,37162.0,January
+15,          Grècia  ,1644.0,January
+16,          Hongria  ,1277.0,January
+17,          Irlanda  ,5095.0,January
+18,          Itàlia  ,31652.0,January
 19,          Letònia  ,222.0,January
 20,          Lituània  ,443.0,January
 21,          Luxemburg  ,223.0,January
 22,          Malta  ,99.0,January
-23,          Països Baixos  ,8.55,January
-24,          Polònia  ,4.337,January
-25,          Portugal  ,5.313,January
-26,          Regne Unit  ,32.935,January
-27,          Republica Checa  ,1.124,January
-28,          Romania  ,1.179,January
-29,          Suècia  ,4.492,January
-30,          Resta Unió Europea  ,2.208,January
+23,          Països Baixos  ,8550.0,January
+24,          Polònia  ,4337.0,January
+25,          Portugal  ,5313.0,January
+26,          Regne Unit  ,32935.0,January
+27,          Republica Checa  ,1124.0,January
+28,          Romania  ,1179.0,January
+29,          Suècia  ,4492.0,January
+30,          Resta Unió Europea  ,2208.0,January
 31,          Islàndia  ,156.0,January
 32,          Liechtenstein  ,86.0,January
-33,          Noruega  ,1.903,January
-34,          Rússia  ,8.336,January
-35,          Suïssa  ,6.031,January
-36,          Turquia  ,3.956,January
+33,          Noruega  ,1903.0,January
+34,          Rússia  ,8336.0,January
+35,          Suïssa  ,6031.0,January
+36,          Turquia  ,3956.0,January
 37,          Ucraïna  ,883.0,January
-38,          Resta d'Europa  ,6.5,January
-39,          Argentina  ,3.662,January
-40,          Brasil  ,4.832,January
-41,          Canada  ,2.522,January
-42,          Estats Units  ,19.799,January
-43,          Mèxic  ,2.039,January
-44,          Resta d'Amèrica   ,9.84,January
+38,          Resta d'Europa  ,6500.0,January
+39,          Argentina  ,3662.0,January
+40,          Brasil  ,4832.0,January
+41,          Canada  ,2522.0,January
+42,          Estats Units  ,19799.0,January
+43,          Mèxic  ,2039.0,January
+44,          Resta d'Amèrica   ,9840.0,January
 45,          Sudàfrica  ,267.0,January
-46,          Resta d'Àfrica  ,10.35,January
-47,          Japó  ,9.597,January
-48,          Xina  ,5.82,January
-49,          Corea Del Sud  ,3.78,January
-50,          Resta d'Àsia  ,14.017,January
-51,          Austràlia  ,3.332,January
-52,          Resta del món  ,23.238,January
-53,Nombre de viatgers            ,492.177,February
-54,     residents a Espanya       ,125.436,February
-55,     residents a l'estranger       ,366.741,February
-56,          Alemanya  ,26.635,February
-57,          Àustria  ,3.55,February
-58,          Bèlgica  ,7.66,February
+46,          Resta d'Àfrica  ,10350.0,January
+47,          Japó  ,9597.0,January
+48,          Xina  ,5820.0,January
+49,          Corea Del Sud  ,3780.0,January
+50,          Resta d'Àsia  ,14017.0,January
+51,          Austràlia  ,3332.0,January
+52,          Resta del món  ,23238.0,January
+53,Nombre de viatgers            ,492177.0,February
+54,     residents a Espanya       ,125436.0,February
+55,     residents a l'estranger       ,366741.0,February
+56,          Alemanya  ,26635.0,February
+57,          Àustria  ,3550.0,February
+58,          Bèlgica  ,7660.0,February
 59,          Bulgària  ,705.0,February
 60,          Xipre  ,191.0,February
-61,          Croàcia  ,1.113,February
-62,          Dinamarca  ,3.754,February
+61,          Croàcia  ,1113.0,February
+62,          Dinamarca  ,3754.0,February
 63,          Eslovàquia  ,384.0,February
 64,          Eslovènia  ,395.0,February
 65,          Estònia  ,280.0,February
-66,          Finlàndia  ,2.862,February
-67,          França  ,43.656,February
-68,          Grècia  ,2.067,February
-69,          Hongria  ,1.329,February
-70,          Irlanda  ,5.246,February
-71,          Itàlia  ,31.83,February
+66,          Finlàndia  ,2862.0,February
+67,          França  ,43656.0,February
+68,          Grècia  ,2067.0,February
+69,          Hongria  ,1329.0,February
+70,          Irlanda  ,5246.0,February
+71,          Itàlia  ,31830.0,February
 72,          Letònia  ,210.0,February
 73,          Lituània  ,857.0,February
 74,          Luxemburg  ,340.0,February
 75,          Malta  ,290.0,February
-76,          Països Baixos  ,10.703,February
-77,          Polònia  ,4.685,February
-78,          Portugal  ,6.984,February
-79,          Regne Unit  ,45.065,February
-80,          Republica Checa  ,1.352,February
-81,          Romania  ,1.862,February
-82,          Suècia  ,6.631,February
-83,          Resta Unió Europea  ,3.136,February
+76,          Països Baixos  ,10703.0,February
+77,          Polònia  ,4685.0,February
+78,          Portugal  ,6984.0,February
+79,          Regne Unit  ,45065.0,February
+80,          Republica Checa  ,1352.0,February
+81,          Romania  ,1862.0,February
+82,          Suècia  ,6631.0,February
+83,          Resta Unió Europea  ,3136.0,February
 84,          Islàndia  ,240.0,February
 85,          Liechtenstein  ,86.0,February
-86,          Noruega  ,3.212,February
-87,          Rússia  ,5.47,February
-88,          Suïssa  ,7.363,February
-89,          Turquia  ,3.319,February
-90,          Ucraïna  ,1.084,February
-91,          Resta d'Europa  ,4.915,February
-92,          Argentina  ,3.42,February
-93,          Brasil  ,4.725,February
-94,          Canada  ,3.65,February
-95,          Estats Units  ,26.698,February
-96,          Mèxic  ,1.926,February
-97,          Resta d'Amèrica   ,9.43,February
+86,          Noruega  ,3212.0,February
+87,          Rússia  ,5470.0,February
+88,          Suïssa  ,7363.0,February
+89,          Turquia  ,3319.0,February
+90,          Ucraïna  ,1084.0,February
+91,          Resta d'Europa  ,4915.0,February
+92,          Argentina  ,3420.0,February
+93,          Brasil  ,4725.0,February
+94,          Canada  ,3650.0,February
+95,          Estats Units  ,26698.0,February
+96,          Mèxic  ,1926.0,February
+97,          Resta d'Amèrica   ,9430.0,February
 98,          Sudàfrica  ,312.0,February
-99,          Resta d'Àfrica  ,6.431,February
-100,          Japó  ,13.541,February
-101,          Xina  ,13.129,February
-102,          Corea Del Sud  ,3.699,February
-103,          Resta d'Àsia  ,16.68,February
-104,          Austràlia  ,2.532,February
-105,          Resta del món  ,21.107,February
-106,Nombre de viatgers            ,600.551,March
-107,     residents a Espanya       ,142.574,March
-108,     residents a l'estranger       ,457.977,March
-109,          Alemanya  ,44.991,March
-110,          Àustria  ,5.977,March
-111,          Bèlgica  ,10.399,March
+99,          Resta d'Àfrica  ,6431.0,February
+100,          Japó  ,13541.0,February
+101,          Xina  ,13129.0,February
+102,          Corea Del Sud  ,3699.0,February
+103,          Resta d'Àsia  ,16680.0,February
+104,          Austràlia  ,2532.0,February
+105,          Resta del món  ,21107.0,February
+106,Nombre de viatgers            ,600551.0,March
+107,     residents a Espanya       ,142574.0,March
+108,     residents a l'estranger       ,457977.0,March
+109,          Alemanya  ,44991.0,March
+110,          Àustria  ,5977.0,March
+111,          Bèlgica  ,10399.0,March
 112,          Bulgària  ,763.0,March
 113,          Xipre  ,290.0,March
 114,          Croàcia  ,627.0,March
-115,          Dinamarca  ,6.776,March
+115,          Dinamarca  ,6776.0,March
 116,          Eslovàquia  ,847.0,March
 117,          Eslovènia  ,373.0,March
 118,          Estònia  ,375.0,March
-119,          Finlàndia  ,4.593,March
-120,          França  ,44.464,March
-121,          Grècia  ,2.523,March
-122,          Hongria  ,1.672,March
-123,          Irlanda  ,6.275,March
-124,          Itàlia  ,37.253,March
+119,          Finlàndia  ,4593.0,March
+120,          França  ,44464.0,March
+121,          Grècia  ,2523.0,March
+122,          Hongria  ,1672.0,March
+123,          Irlanda  ,6275.0,March
+124,          Itàlia  ,37253.0,March
 125,          Letònia  ,456.0,March
 126,          Lituània  ,550.0,March
 127,          Luxemburg  ,700.0,March
 128,          Malta  ,161.0,March
-129,          Països Baixos  ,11.25,March
-130,          Polònia  ,4.521,March
-131,          Portugal  ,8.029,March
-132,          Regne Unit  ,57.257,March
-133,          Republica Checa  ,1.906,March
-134,          Romania  ,1.849,March
-135,          Suècia  ,8.764,March
-136,          Resta Unió Europea  ,3.465,March
+129,          Països Baixos  ,11250.0,March
+130,          Polònia  ,4521.0,March
+131,          Portugal  ,8029.0,March
+132,          Regne Unit  ,57257.0,March
+133,          Republica Checa  ,1906.0,March
+134,          Romania  ,1849.0,March
+135,          Suècia  ,8764.0,March
+136,          Resta Unió Europea  ,3465.0,March
 137,          Islàndia  ,354.0,March
 138,          Liechtenstein  ,171.0,March
-139,          Noruega  ,5.657,March
-140,          Rússia  ,9.468,March
-141,          Suïssa  ,12.408,March
-142,          Turquia  ,2.922,March
-143,          Ucraïna  ,1.045,March
-144,          Resta d'Europa  ,7.489,March
-145,          Argentina  ,4.968,March
-146,          Brasil  ,4.698,March
-147,          Canada  ,4.88,March
-148,          Estats Units  ,43.46,March
-149,          Mèxic  ,3.065,March
-150,          Resta d'Amèrica   ,10.942,March
+139,          Noruega  ,5657.0,March
+140,          Rússia  ,9468.0,March
+141,          Suïssa  ,12408.0,March
+142,          Turquia  ,2922.0,March
+143,          Ucraïna  ,1045.0,March
+144,          Resta d'Europa  ,7489.0,March
+145,          Argentina  ,4968.0,March
+146,          Brasil  ,4698.0,March
+147,          Canada  ,4880.0,March
+148,          Estats Units  ,43460.0,March
+149,          Mèxic  ,3065.0,March
+150,          Resta d'Amèrica   ,10942.0,March
 151,          Sudàfrica  ,537.0,March
-152,          Resta d'Àfrica  ,7.672,March
-153,          Japó  ,13.797,March
-154,          Xina  ,7.375,March
-155,          Corea Del Sud  ,1.986,March
-156,          Resta d'Àsia  ,25.751,March
-157,          Austràlia  ,3.311,March
-158,          Resta del món  ,18.915,March
-159,Nombre de viatgers            ,658.663,April
-160,     residents a Espanya       ,138.791,April
-161,     residents a l'estranger       ,519.872,April
-162,          Alemanya  ,41.773,April
-163,          Àustria  ,6.821,April
-164,          Bèlgica  ,12.29,April
-165,          Bulgària  ,1.066,April
+152,          Resta d'Àfrica  ,7672.0,March
+153,          Japó  ,13797.0,March
+154,          Xina  ,7375.0,March
+155,          Corea Del Sud  ,1986.0,March
+156,          Resta d'Àsia  ,25751.0,March
+157,          Austràlia  ,3311.0,March
+158,          Resta del món  ,18915.0,March
+159,Nombre de viatgers            ,658663.0,April
+160,     residents a Espanya       ,138791.0,April
+161,     residents a l'estranger       ,519872.0,April
+162,          Alemanya  ,41773.0,April
+163,          Àustria  ,6821.0,April
+164,          Bèlgica  ,12290.0,April
+165,          Bulgària  ,1066.0,April
 166,          Xipre  ,181.0,April
 167,          Croàcia  ,925.0,April
-168,          Dinamarca  ,8.949,April
+168,          Dinamarca  ,8949.0,April
 169,          Eslovàquia  ,813.0,April
 170,          Eslovènia  ,519.0,April
 171,          Estònia  ,550.0,April
-172,          Finlàndia  ,4.826,April
-173,          França  ,57.928,April
-174,          Grècia  ,2.782,April
-175,          Hongria  ,1.83,April
-176,          Irlanda  ,6.053,April
-177,          Itàlia  ,45.99,April
+172,          Finlàndia  ,4826.0,April
+173,          França  ,57928.0,April
+174,          Grècia  ,2782.0,April
+175,          Hongria  ,1830.0,April
+176,          Irlanda  ,6053.0,April
+177,          Itàlia  ,45990.0,April
 178,          Letònia  ,239.0,April
 179,          Lituània  ,695.0,April
 180,          Luxemburg  ,573.0,April
 181,          Malta  ,173.0,April
-182,          Països Baixos  ,19.755,April
-183,          Polònia  ,7.232,April
-184,          Portugal  ,6.742,April
-185,          Regne Unit  ,64.437,April
-186,          Republica Checa  ,2.104,April
-187,          Romania  ,2.553,April
-188,          Suècia  ,10.923,April
-189,          Resta Unió Europea  ,3.455,April
+182,          Països Baixos  ,19755.0,April
+183,          Polònia  ,7232.0,April
+184,          Portugal  ,6742.0,April
+185,          Regne Unit  ,64437.0,April
+186,          Republica Checa  ,2104.0,April
+187,          Romania  ,2553.0,April
+188,          Suècia  ,10923.0,April
+189,          Resta Unió Europea  ,3455.0,April
 190,          Islàndia  ,288.0,April
 191,          Liechtenstein  ,13.0,April
-192,          Noruega  ,7.647,April
-193,          Rússia  ,8.388,April
-194,          Suïssa  ,13.602,April
-195,          Turquia  ,4.226,April
-196,          Ucraïna  ,1.536,April
-197,          Resta d'Europa  ,7.814,April
-198,          Argentina  ,6.01,April
-199,          Brasil  ,5.187,April
-200,          Canada  ,6.235,April
-201,          Estats Units  ,48.016,April
-202,          Mèxic  ,3.114,April
-203,          Resta d'Amèrica   ,13.317,April
+192,          Noruega  ,7647.0,April
+193,          Rússia  ,8388.0,April
+194,          Suïssa  ,13602.0,April
+195,          Turquia  ,4226.0,April
+196,          Ucraïna  ,1536.0,April
+197,          Resta d'Europa  ,7814.0,April
+198,          Argentina  ,6010.0,April
+199,          Brasil  ,5187.0,April
+200,          Canada  ,6235.0,April
+201,          Estats Units  ,48016.0,April
+202,          Mèxic  ,3114.0,April
+203,          Resta d'Amèrica   ,13317.0,April
 204,          Sudàfrica  ,693.0,April
-205,          Resta d'Àfrica  ,9.555,April
-206,          Japó  ,11.455,April
-207,          Xina  ,8.65,April
-208,          Corea Del Sud  ,2.113,April
-209,          Resta d'Àsia  ,21.114,April
-210,          Austràlia  ,4.908,April
-211,          Resta del món  ,23.814,April
-212,Nombre de viatgers            ,686.912,May
-213,     residents a Espanya       ,145.64,May
-214,     residents a l'estranger       ,541.272,May
-215,          Alemanya  ,44.546,May
-216,          Àustria  ,7.495,May
-217,          Bèlgica  ,11.849,May
-218,          Bulgària  ,1.031,May
+205,          Resta d'Àfrica  ,9555.0,April
+206,          Japó  ,11455.0,April
+207,          Xina  ,8650.0,April
+208,          Corea Del Sud  ,2113.0,April
+209,          Resta d'Àsia  ,21114.0,April
+210,          Austràlia  ,4908.0,April
+211,          Resta del món  ,23814.0,April
+212,Nombre de viatgers            ,686912.0,May
+213,     residents a Espanya       ,145640.0,May
+214,     residents a l'estranger       ,541272.0,May
+215,          Alemanya  ,44546.0,May
+216,          Àustria  ,7495.0,May
+217,          Bèlgica  ,11849.0,May
+218,          Bulgària  ,1031.0,May
 219,          Xipre  ,269.0,May
 220,          Croàcia  ,881.0,May
-221,          Dinamarca  ,6.897,May
+221,          Dinamarca  ,6897.0,May
 222,          Eslovàquia  ,791.0,May
 223,          Eslovènia  ,298.0,May
 224,          Estònia  ,735.0,May
-225,          Finlàndia  ,5.257,May
-226,          França  ,55.492,May
-227,          Grècia  ,2.729,May
-228,          Hongria  ,1.406,May
-229,          Irlanda  ,6.35,May
-230,          Itàlia  ,34.921,May
+225,          Finlàndia  ,5257.0,May
+226,          França  ,55492.0,May
+227,          Grècia  ,2729.0,May
+228,          Hongria  ,1406.0,May
+229,          Irlanda  ,6350.0,May
+230,          Itàlia  ,34921.0,May
 231,          Letònia  ,466.0,May
 232,          Lituània  ,713.0,May
 233,          Luxemburg  ,627.0,May
 234,          Malta  ,375.0,May
-235,          Països Baixos  ,18.143,May
-236,          Polònia  ,5.944,May
-237,          Portugal  ,7.234,May
-238,          Regne Unit  ,61.406,May
-239,          Republica Checa  ,2.214,May
-240,          Romania  ,1.945,May
-241,          Suècia  ,11.791,May
-242,          Resta Unió Europea  ,2.947,May
+235,          Països Baixos  ,18143.0,May
+236,          Polònia  ,5944.0,May
+237,          Portugal  ,7234.0,May
+238,          Regne Unit  ,61406.0,May
+239,          Republica Checa  ,2214.0,May
+240,          Romania  ,1945.0,May
+241,          Suècia  ,11791.0,May
+242,          Resta Unió Europea  ,2947.0,May
 243,          Islàndia  ,414.0,May
 244,          Liechtenstein  ,119.0,May
-245,          Noruega  ,8.873,May
-246,          Rússia  ,8.287,May
-247,          Suïssa  ,14.092,May
-248,          Turquia  ,5.387,May
-249,          Ucraïna  ,1.279,May
-250,          Resta d'Europa  ,9.264,May
-251,          Argentina  ,8.82,May
-252,          Brasil  ,8.127,May
-253,          Canada  ,9.745,May
-254,          Estats Units  ,63.596,May
-255,          Mèxic  ,3.861,May
-256,          Resta d'Amèrica   ,17.29,May
+245,          Noruega  ,8873.0,May
+246,          Rússia  ,8287.0,May
+247,          Suïssa  ,14092.0,May
+248,          Turquia  ,5387.0,May
+249,          Ucraïna  ,1279.0,May
+250,          Resta d'Europa  ,9264.0,May
+251,          Argentina  ,8820.0,May
+252,          Brasil  ,8127.0,May
+253,          Canada  ,9745.0,May
+254,          Estats Units  ,63596.0,May
+255,          Mèxic  ,3861.0,May
+256,          Resta d'Amèrica   ,17290.0,May
 257,          Sudàfrica  ,832.0,May
-258,          Resta d'Àfrica  ,8.303,May
-259,          Japó  ,12.323,May
-260,          Xina  ,8.142,May
-261,          Corea Del Sud  ,3.151,May
-262,          Resta d'Àsia  ,22.483,May
-263,          Austràlia  ,8.213,May
-264,          Resta del món  ,23.919,May
-265,Nombre de viatgers            ,693.43,June
-266,     residents a Espanya       ,126.114,June
-267,     residents a l'estranger       ,567.316,June
-268,          Alemanya  ,38.393,June
-269,          Àustria  ,6.351,June
-270,          Bèlgica  ,10.534,June
+258,          Resta d'Àfrica  ,8303.0,May
+259,          Japó  ,12323.0,May
+260,          Xina  ,8142.0,May
+261,          Corea Del Sud  ,3151.0,May
+262,          Resta d'Àsia  ,22483.0,May
+263,          Austràlia  ,8213.0,May
+264,          Resta del món  ,23919.0,May
+265,Nombre de viatgers            ,693430.0,June
+266,     residents a Espanya       ,126114.0,June
+267,     residents a l'estranger       ,567316.0,June
+268,          Alemanya  ,38393.0,June
+269,          Àustria  ,6351.0,June
+270,          Bèlgica  ,10534.0,June
 271,          Bulgària  ,553.0,June
 272,          Xipre  ,245.0,June
 273,          Croàcia  ,693.0,June
-274,          Dinamarca  ,5.745,June
+274,          Dinamarca  ,5745.0,June
 275,          Eslovàquia  ,477.0,June
 276,          Eslovènia  ,523.0,June
 277,          Estònia  ,346.0,June
-278,          Finlàndia  ,5.947,June
-279,          França  ,68.454,June
-280,          Grècia  ,2.526,June
-281,          Hongria  ,1.318,June
-282,          Irlanda  ,6.635,June
-283,          Itàlia  ,42.833,June
+278,          Finlàndia  ,5947.0,June
+279,          França  ,68454.0,June
+280,          Grècia  ,2526.0,June
+281,          Hongria  ,1318.0,June
+282,          Irlanda  ,6635.0,June
+283,          Itàlia  ,42833.0,June
 284,          Letònia  ,337.0,June
 285,          Lituània  ,472.0,June
 286,          Luxemburg  ,720.0,June
 287,          Malta  ,426.0,June
-288,          Països Baixos  ,14.987,June
-289,          Polònia  ,3.934,June
-290,          Portugal  ,7.841,June
-291,          Regne Unit  ,64.774,June
-292,          Republica Checa  ,1.909,June
-293,          Romania  ,2.408,June
-294,          Suècia  ,12.433,June
-295,          Resta Unió Europea  ,4.084,June
+288,          Països Baixos  ,14987.0,June
+289,          Polònia  ,3934.0,June
+290,          Portugal  ,7841.0,June
+291,          Regne Unit  ,64774.0,June
+292,          Republica Checa  ,1909.0,June
+293,          Romania  ,2408.0,June
+294,          Suècia  ,12433.0,June
+295,          Resta Unió Europea  ,4084.0,June
 296,          Islàndia  ,624.0,June
 297,          Liechtenstein  ,72.0,June
-298,          Noruega  ,9.044,June
-299,          Rússia  ,10.73,June
-300,          Suïssa  ,12.787,June
-301,          Turquia  ,3.043,June
-302,          Ucraïna  ,1.434,June
-303,          Resta d'Europa  ,9.451,June
-304,          Argentina  ,10.466,June
-305,          Brasil  ,5.832,June
-306,          Canada  ,9.017,June
-307,          Estats Units  ,81.976,June
-308,          Mèxic  ,4.677,June
-309,          Resta d'Amèrica   ,19.283,June
+298,          Noruega  ,9044.0,June
+299,          Rússia  ,10730.0,June
+300,          Suïssa  ,12787.0,June
+301,          Turquia  ,3043.0,June
+302,          Ucraïna  ,1434.0,June
+303,          Resta d'Europa  ,9451.0,June
+304,          Argentina  ,10466.0,June
+305,          Brasil  ,5832.0,June
+306,          Canada  ,9017.0,June
+307,          Estats Units  ,81976.0,June
+308,          Mèxic  ,4677.0,June
+309,          Resta d'Amèrica   ,19283.0,June
 310,          Sudàfrica  ,885.0,June
-311,          Resta d'Àfrica  ,6.507,June
-312,          Japó  ,11.52,June
-313,          Xina  ,9.712,June
-314,          Corea Del Sud  ,2.919,June
-315,          Resta d'Àsia  ,20.099,June
-316,          Austràlia  ,8.807,June
-317,          Resta del món  ,22.533,June
-318,Nombre de viatgers            ,755.492,July
-319,     residents a Espanya       ,135.512,July
-320,     residents a l'estranger       ,619.98,July
-321,          Alemanya  ,36.598,July
-322,          Àustria  ,8.068,July
-323,          Bèlgica  ,14.259,July
+311,          Resta d'Àfrica  ,6507.0,June
+312,          Japó  ,11520.0,June
+313,          Xina  ,9712.0,June
+314,          Corea Del Sud  ,2919.0,June
+315,          Resta d'Àsia  ,20099.0,June
+316,          Austràlia  ,8807.0,June
+317,          Resta del món  ,22533.0,June
+318,Nombre de viatgers            ,755492.0,July
+319,     residents a Espanya       ,135512.0,July
+320,     residents a l'estranger       ,619980.0,July
+321,          Alemanya  ,36598.0,July
+322,          Àustria  ,8068.0,July
+323,          Bèlgica  ,14259.0,July
 324,          Bulgària  ,804.0,July
 325,          Xipre  ,867.0,July
 326,          Croàcia  ,543.0,July
-327,          Dinamarca  ,10.748,July
+327,          Dinamarca  ,10748.0,July
 328,          Eslovàquia  ,658.0,July
 329,          Eslovènia  ,360.0,July
 330,          Estònia  ,659.0,July
-331,          Finlàndia  ,7.381,July
-332,          França  ,55.69,July
-333,          Grècia  ,2.586,July
-334,          Hongria  ,1.492,July
-335,          Irlanda  ,7.044,July
-336,          Itàlia  ,39.054,July
+331,          Finlàndia  ,7381.0,July
+332,          França  ,55690.0,July
+333,          Grècia  ,2586.0,July
+334,          Hongria  ,1492.0,July
+335,          Irlanda  ,7044.0,July
+336,          Itàlia  ,39054.0,July
 337,          Letònia  ,297.0,July
 338,          Lituània  ,666.0,July
 339,          Luxemburg  ,994.0,July
 340,          Malta  ,686.0,July
-341,          Països Baixos  ,17.989,July
-342,          Polònia  ,5.07,July
-343,          Portugal  ,7.731,July
-344,          Regne Unit  ,69.358,July
-345,          Republica Checa  ,2.118,July
-346,          Romania  ,2.575,July
-347,          Suècia  ,14.986,July
-348,          Resta Unió Europea  ,4.05,July
+341,          Països Baixos  ,17989.0,July
+342,          Polònia  ,5070.0,July
+343,          Portugal  ,7731.0,July
+344,          Regne Unit  ,69358.0,July
+345,          Republica Checa  ,2118.0,July
+346,          Romania  ,2575.0,July
+347,          Suècia  ,14986.0,July
+348,          Resta Unió Europea  ,4050.0,July
 349,          Islàndia  ,727.0,July
 350,          Liechtenstein  ,180.0,July
-351,          Noruega  ,13.902,July
-352,          Rússia  ,11.406,July
-353,          Suïssa  ,16.457,July
-354,          Turquia  ,4.072,July
-355,          Ucraïna  ,1.582,July
-356,          Resta d'Europa  ,9.484,July
-357,          Argentina  ,8.88,July
-358,          Brasil  ,8.134,July
-359,          Canada  ,13.463,July
-360,          Estats Units  ,83.851,July
-361,          Mèxic  ,8.512,July
-362,          Resta d'Amèrica   ,17.395,July
-363,          Sudàfrica  ,1.234,July
-364,          Resta d'Àfrica  ,11.744,July
-365,          Japó  ,9.097,July
-366,          Xina  ,9.682,July
-367,          Corea Del Sud  ,3.37,July
-368,          Resta d'Àsia  ,29.525,July
-369,          Austràlia  ,12.262,July
-370,          Resta del món  ,31.691,July
-371,Nombre de viatgers            ,708.636,August
-372,     residents a Espanya       ,108.691,August
-373,     residents a l'estranger       ,599.945,August
-374,          Alemanya  ,37.286,August
-375,          Àustria  ,7.38,August
-376,          Bèlgica  ,12.739,August
+351,          Noruega  ,13902.0,July
+352,          Rússia  ,11406.0,July
+353,          Suïssa  ,16457.0,July
+354,          Turquia  ,4072.0,July
+355,          Ucraïna  ,1582.0,July
+356,          Resta d'Europa  ,9484.0,July
+357,          Argentina  ,8880.0,July
+358,          Brasil  ,8134.0,July
+359,          Canada  ,13463.0,July
+360,          Estats Units  ,83851.0,July
+361,          Mèxic  ,8512.0,July
+362,          Resta d'Amèrica   ,17395.0,July
+363,          Sudàfrica  ,1234.0,July
+364,          Resta d'Àfrica  ,11744.0,July
+365,          Japó  ,9097.0,July
+366,          Xina  ,9682.0,July
+367,          Corea Del Sud  ,3370.0,July
+368,          Resta d'Àsia  ,29525.0,July
+369,          Austràlia  ,12262.0,July
+370,          Resta del món  ,31691.0,July
+371,Nombre de viatgers            ,708636.0,August
+372,     residents a Espanya       ,108691.0,August
+373,     residents a l'estranger       ,599945.0,August
+374,          Alemanya  ,37286.0,August
+375,          Àustria  ,7380.0,August
+376,          Bèlgica  ,12739.0,August
 377,          Bulgària  ,628.0,August
 378,          Xipre  ,653.0,August
-379,          Croàcia  ,1.12,August
-380,          Dinamarca  ,5.901,August
+379,          Croàcia  ,1120.0,August
+380,          Dinamarca  ,5901.0,August
 381,          Eslovàquia  ,527.0,August
 382,          Eslovènia  ,280.0,August
 383,          Estònia  ,432.0,August
-384,          Finlàndia  ,4.975,August
-385,          França  ,78.731,August
-386,          Grècia  ,2.449,August
-387,          Hongria  ,1.747,August
-388,          Irlanda  ,6.81,August
-389,          Itàlia  ,54.842,August
+384,          Finlàndia  ,4975.0,August
+385,          França  ,78731.0,August
+386,          Grècia  ,2449.0,August
+387,          Hongria  ,1747.0,August
+388,          Irlanda  ,6810.0,August
+389,          Itàlia  ,54842.0,August
 390,          Letònia  ,363.0,August
 391,          Lituània  ,675.0,August
 392,          Luxemburg  ,905.0,August
 393,          Malta  ,597.0,August
-394,          Països Baixos  ,18.24,August
-395,          Polònia  ,4.793,August
-396,          Portugal  ,8.275,August
-397,          Regne Unit  ,67.547,August
-398,          Republica Checa  ,1.387,August
-399,          Romania  ,2.784,August
-400,          Suècia  ,10.819,August
-401,          Resta Unió Europea  ,4.386,August
+394,          Països Baixos  ,18240.0,August
+395,          Polònia  ,4793.0,August
+396,          Portugal  ,8275.0,August
+397,          Regne Unit  ,67547.0,August
+398,          Republica Checa  ,1387.0,August
+399,          Romania  ,2784.0,August
+400,          Suècia  ,10819.0,August
+401,          Resta Unió Europea  ,4386.0,August
 402,          Islàndia  ,695.0,August
 403,          Liechtenstein  ,537.0,August
-404,          Noruega  ,7.954,August
-405,          Rússia  ,13.282,August
-406,          Suïssa  ,12.338,August
-407,          Turquia  ,2.277,August
-408,          Ucraïna  ,1.75,August
-409,          Resta d'Europa  ,9.041,August
-410,          Argentina  ,8.678,August
-411,          Brasil  ,5.555,August
-412,          Canada  ,12.249,August
-413,          Estats Units  ,63.813,August
-414,          Mèxic  ,3.866,August
-415,          Resta d'Amèrica   ,16.327,August
+404,          Noruega  ,7954.0,August
+405,          Rússia  ,13282.0,August
+406,          Suïssa  ,12338.0,August
+407,          Turquia  ,2277.0,August
+408,          Ucraïna  ,1750.0,August
+409,          Resta d'Europa  ,9041.0,August
+410,          Argentina  ,8678.0,August
+411,          Brasil  ,5555.0,August
+412,          Canada  ,12249.0,August
+413,          Estats Units  ,63813.0,August
+414,          Mèxic  ,3866.0,August
+415,          Resta d'Amèrica   ,16327.0,August
 416,          Sudàfrica  ,800.0,August
-417,          Resta d'Àfrica  ,14.25,August
-418,          Japó  ,11.326,August
-419,          Xina  ,7.784,August
-420,          Corea Del Sud  ,3.064,August
-421,          Resta d'Àsia  ,29.073,August
-422,          Austràlia  ,9.697,August
-423,          Resta del món  ,28.318,August
-424,Nombre de viatgers            ,686.944,September
-425,     residents a Espanya       ,119.572,September
-426,     residents a l'estranger       ,567.372,September
-427,          Alemanya  ,47.141,September
-428,          Àustria  ,7.148,September
-429,          Bèlgica  ,12.285,September
-430,          Bulgària  ,1.053,September
+417,          Resta d'Àfrica  ,14250.0,August
+418,          Japó  ,11326.0,August
+419,          Xina  ,7784.0,August
+420,          Corea Del Sud  ,3064.0,August
+421,          Resta d'Àsia  ,29073.0,August
+422,          Austràlia  ,9697.0,August
+423,          Resta del món  ,28318.0,August
+424,Nombre de viatgers            ,686944.0,September
+425,     residents a Espanya       ,119572.0,September
+426,     residents a l'estranger       ,567372.0,September
+427,          Alemanya  ,47141.0,September
+428,          Àustria  ,7148.0,September
+429,          Bèlgica  ,12285.0,September
+430,          Bulgària  ,1053.0,September
 431,          Xipre  ,457.0,September
 432,          Croàcia  ,447.0,September
-433,          Dinamarca  ,8.012,September
+433,          Dinamarca  ,8012.0,September
 434,          Eslovàquia  ,500.0,September
 435,          Eslovènia  ,316.0,September
 436,          Estònia  ,372.0,September
-437,          Finlàndia  ,5.367,September
-438,          França  ,41.037,September
-439,          Grècia  ,2.531,September
-440,          Hongria  ,1.609,September
-441,          Irlanda  ,7.749,September
-442,          Itàlia  ,37.379,September
+437,          Finlàndia  ,5367.0,September
+438,          França  ,41037.0,September
+439,          Grècia  ,2531.0,September
+440,          Hongria  ,1609.0,September
+441,          Irlanda  ,7749.0,September
+442,          Itàlia  ,37379.0,September
 443,          Letònia  ,319.0,September
 444,          Lituània  ,562.0,September
 445,          Luxemburg  ,495.0,September
 446,          Malta  ,289.0,September
-447,          Països Baixos  ,14.985,September
-448,          Polònia  ,5.4,September
-449,          Portugal  ,7.112,September
-450,          Regne Unit  ,66.019,September
-451,          Republica Checa  ,1.93,September
-452,          Romania  ,2.661,September
-453,          Suècia  ,12.443,September
-454,          Resta Unió Europea  ,4.102,September
-455,          Islàndia  ,1.393,September
+447,          Països Baixos  ,14985.0,September
+448,          Polònia  ,5400.0,September
+449,          Portugal  ,7112.0,September
+450,          Regne Unit  ,66019.0,September
+451,          Republica Checa  ,1930.0,September
+452,          Romania  ,2661.0,September
+453,          Suècia  ,12443.0,September
+454,          Resta Unió Europea  ,4102.0,September
+455,          Islàndia  ,1393.0,September
 456,          Liechtenstein  ,105.0,September
-457,          Noruega  ,8.231,September
-458,          Rússia  ,11.412,September
-459,          Suïssa  ,10.95,September
-460,          Turquia  ,4.042,September
-461,          Ucraïna  ,1.348,September
-462,          Resta d'Europa  ,10.355,September
-463,          Argentina  ,9.71,September
-464,          Brasil  ,7.9,September
-465,          Canada  ,15.51,September
-466,          Estats Units  ,71.705,September
-467,          Mèxic  ,3.855,September
-468,          Resta d'Amèrica   ,19.07,September
+457,          Noruega  ,8231.0,September
+458,          Rússia  ,11412.0,September
+459,          Suïssa  ,10950.0,September
+460,          Turquia  ,4042.0,September
+461,          Ucraïna  ,1348.0,September
+462,          Resta d'Europa  ,10355.0,September
+463,          Argentina  ,9710.0,September
+464,          Brasil  ,7900.0,September
+465,          Canada  ,15510.0,September
+466,          Estats Units  ,71705.0,September
+467,          Mèxic  ,3855.0,September
+468,          Resta d'Amèrica   ,19070.0,September
 469,          Sudàfrica  ,911.0,September
-470,          Resta d'Àfrica  ,8.817,September
-471,          Japó  ,13.613,September
-472,          Xina  ,9.308,September
-473,          Corea Del Sud  ,3.128,September
-474,          Resta d'Àsia  ,28.355,September
-475,          Austràlia  ,10.442,September
-476,          Resta del món  ,27.492,September
-477,Nombre de viatgers            ,682.727,October
-478,     residents a Espanya       ,124.758,October
-479,     residents a l'estranger       ,557.969,October
-480,          Alemanya  ,48.481,October
-481,          Àustria  ,9.52,October
-482,          Bèlgica  ,11.39,October
-483,          Bulgària  ,1.135,October
+470,          Resta d'Àfrica  ,8817.0,September
+471,          Japó  ,13613.0,September
+472,          Xina  ,9308.0,September
+473,          Corea Del Sud  ,3128.0,September
+474,          Resta d'Àsia  ,28355.0,September
+475,          Austràlia  ,10442.0,September
+476,          Resta del món  ,27492.0,September
+477,Nombre de viatgers            ,682727.0,October
+478,     residents a Espanya       ,124758.0,October
+479,     residents a l'estranger       ,557969.0,October
+480,          Alemanya  ,48481.0,October
+481,          Àustria  ,9520.0,October
+482,          Bèlgica  ,11390.0,October
+483,          Bulgària  ,1135.0,October
 484,          Xipre  ,236.0,October
 485,          Croàcia  ,594.0,October
-486,          Dinamarca  ,7.63,October
+486,          Dinamarca  ,7630.0,October
 487,          Eslovàquia  ,761.0,October
 488,          Eslovènia  ,390.0,October
 489,          Estònia  ,427.0,October
-490,          Finlàndia  ,5.282,October
-491,          França  ,52.28,October
-492,          Grècia  ,3.961,October
-493,          Hongria  ,2.171,October
-494,          Irlanda  ,7.091,October
-495,          Itàlia  ,39.661,October
+490,          Finlàndia  ,5282.0,October
+491,          França  ,52280.0,October
+492,          Grècia  ,3961.0,October
+493,          Hongria  ,2171.0,October
+494,          Irlanda  ,7091.0,October
+495,          Itàlia  ,39661.0,October
 496,          Letònia  ,459.0,October
 497,          Lituània  ,593.0,October
 498,          Luxemburg  ,449.0,October
 499,          Malta  ,426.0,October
-500,          Països Baixos  ,15.954,October
-501,          Polònia  ,6.317,October
-502,          Portugal  ,7.41,October
-503,          Regne Unit  ,60.208,October
-504,          Republica Checa  ,2.023,October
-505,          Romania  ,2.347,October
-506,          Suècia  ,11.851,October
-507,          Resta Unió Europea  ,4.153,October
+500,          Països Baixos  ,15954.0,October
+501,          Polònia  ,6317.0,October
+502,          Portugal  ,7410.0,October
+503,          Regne Unit  ,60208.0,October
+504,          Republica Checa  ,2023.0,October
+505,          Romania  ,2347.0,October
+506,          Suècia  ,11851.0,October
+507,          Resta Unió Europea  ,4153.0,October
 508,          Islàndia  ,562.0,October
 509,          Liechtenstein  ,183.0,October
-510,          Noruega  ,9.218,October
-511,          Rússia  ,9.815,October
-512,          Suïssa  ,14.6,October
-513,          Turquia  ,3.786,October
-514,          Ucraïna  ,1.563,October
-515,          Resta d'Europa  ,11.393,October
-516,          Argentina  ,7.097,October
-517,          Brasil  ,8.66,October
-518,          Canada  ,12.576,October
-519,          Estats Units  ,66.042,October
-520,          Mèxic  ,3.886,October
-521,          Resta d'Amèrica   ,17.857,October
-522,          Sudàfrica  ,1.147,October
-523,          Resta d'Àfrica  ,9.834,October
-524,          Japó  ,11.732,October
-525,          Xina  ,10.582,October
-526,          Corea Del Sud  ,3.023,October
-527,          Resta d'Àsia  ,22.527,October
-528,          Austràlia  ,6.018,October
-529,          Resta del món  ,22.668,October
-530,Nombre de viatgers            ,569.643,November
-531,     residents a Espanya       ,147.682,November
-532,     residents a l'estranger       ,421.961,November
-533,          Alemanya  ,31.295,November
-534,          Àustria  ,4.543,November
-535,          Bèlgica  ,8.989,November
-536,          Bulgària  ,1.155,November
+510,          Noruega  ,9218.0,October
+511,          Rússia  ,9815.0,October
+512,          Suïssa  ,14600.0,October
+513,          Turquia  ,3786.0,October
+514,          Ucraïna  ,1563.0,October
+515,          Resta d'Europa  ,11393.0,October
+516,          Argentina  ,7097.0,October
+517,          Brasil  ,8660.0,October
+518,          Canada  ,12576.0,October
+519,          Estats Units  ,66042.0,October
+520,          Mèxic  ,3886.0,October
+521,          Resta d'Amèrica   ,17857.0,October
+522,          Sudàfrica  ,1147.0,October
+523,          Resta d'Àfrica  ,9834.0,October
+524,          Japó  ,11732.0,October
+525,          Xina  ,10582.0,October
+526,          Corea Del Sud  ,3023.0,October
+527,          Resta d'Àsia  ,22527.0,October
+528,          Austràlia  ,6018.0,October
+529,          Resta del món  ,22668.0,October
+530,Nombre de viatgers            ,569643.0,November
+531,     residents a Espanya       ,147682.0,November
+532,     residents a l'estranger       ,421961.0,November
+533,          Alemanya  ,31295.0,November
+534,          Àustria  ,4543.0,November
+535,          Bèlgica  ,8989.0,November
+536,          Bulgària  ,1155.0,November
 537,          Xipre  ,304.0,November
 538,          Croàcia  ,511.0,November
-539,          Dinamarca  ,5.322,November
+539,          Dinamarca  ,5322.0,November
 540,          Eslovàquia  ,461.0,November
 541,          Eslovènia  ,622.0,November
 542,          Estònia  ,367.0,November
-543,          Finlàndia  ,4.61,November
-544,          França  ,41.863,November
-545,          Grècia  ,3.026,November
-546,          Hongria  ,1.277,November
-547,          Irlanda  ,5.823,November
-548,          Itàlia  ,38.356,November
+543,          Finlàndia  ,4610.0,November
+544,          França  ,41863.0,November
+545,          Grècia  ,3026.0,November
+546,          Hongria  ,1277.0,November
+547,          Irlanda  ,5823.0,November
+548,          Itàlia  ,38356.0,November
 549,          Letònia  ,549.0,November
 550,          Lituània  ,728.0,November
 551,          Luxemburg  ,439.0,November
 552,          Malta  ,175.0,November
-553,          Països Baixos  ,14.959,November
-554,          Polònia  ,7.331,November
-555,          Portugal  ,8.095,November
-556,          Regne Unit  ,46.439,November
-557,          Republica Checa  ,1.832,November
-558,          Romania  ,2.257,November
-559,          Suècia  ,8.206,November
-560,          Resta Unió Europea  ,4.367,November
+553,          Països Baixos  ,14959.0,November
+554,          Polònia  ,7331.0,November
+555,          Portugal  ,8095.0,November
+556,          Regne Unit  ,46439.0,November
+557,          Republica Checa  ,1832.0,November
+558,          Romania  ,2257.0,November
+559,          Suècia  ,8206.0,November
+560,          Resta Unió Europea  ,4367.0,November
 561,          Islàndia  ,495.0,November
 562,          Liechtenstein  ,54.0,November
-563,          Noruega  ,5.587,November
-564,          Rússia  ,8.274,November
-565,          Suïssa  ,8.762,November
-566,          Turquia  ,3.741,November
-567,          Ucraïna  ,1.241,November
-568,          Resta d'Europa  ,8.961,November
-569,          Argentina  ,5.366,November
-570,          Brasil  ,5.465,November
-571,          Canada  ,5.488,November
-572,          Estats Units  ,36.313,November
-573,          Mèxic  ,2.839,November
-574,          Resta d'Amèrica   ,13.972,November
+563,          Noruega  ,5587.0,November
+564,          Rússia  ,8274.0,November
+565,          Suïssa  ,8762.0,November
+566,          Turquia  ,3741.0,November
+567,          Ucraïna  ,1241.0,November
+568,          Resta d'Europa  ,8961.0,November
+569,          Argentina  ,5366.0,November
+570,          Brasil  ,5465.0,November
+571,          Canada  ,5488.0,November
+572,          Estats Units  ,36313.0,November
+573,          Mèxic  ,2839.0,November
+574,          Resta d'Amèrica   ,13972.0,November
 575,          Sudàfrica  ,579.0,November
-576,          Resta d'Àfrica  ,9.556,November
-577,          Japó  ,9.898,November
-578,          Xina  ,7.318,November
-579,          Corea Del Sud  ,2.926,November
-580,          Resta d'Àsia  ,19.388,November
-581,          Austràlia  ,2.925,November
-582,          Resta del món  ,18.912,November
-583,Nombre de viatgers            ,513.057,December
-584,     residents a Espanya       ,134.214,December
-585,     residents a l'estranger       ,378.843,December
-586,          Alemanya  ,30.46,December
-587,          Àustria  ,3.374,December
-588,          Bèlgica  ,6.193,December
-589,          Bulgària  ,1.325,December
+576,          Resta d'Àfrica  ,9556.0,November
+577,          Japó  ,9898.0,November
+578,          Xina  ,7318.0,November
+579,          Corea Del Sud  ,2926.0,November
+580,          Resta d'Àsia  ,19388.0,November
+581,          Austràlia  ,2925.0,November
+582,          Resta del món  ,18912.0,November
+583,Nombre de viatgers            ,513057.0,December
+584,     residents a Espanya       ,134214.0,December
+585,     residents a l'estranger       ,378843.0,December
+586,          Alemanya  ,30460.0,December
+587,          Àustria  ,3374.0,December
+588,          Bèlgica  ,6193.0,December
+589,          Bulgària  ,1325.0,December
 590,          Xipre  ,331.0,December
 591,          Croàcia  ,348.0,December
-592,          Dinamarca  ,2.609,December
+592,          Dinamarca  ,2609.0,December
 593,          Eslovàquia  ,372.0,December
 594,          Eslovènia  ,207.0,December
 595,          Estònia  ,248.0,December
-596,          Finlàndia  ,3.039,December
-597,          França  ,52.045,December
-598,          Grècia  ,1.763,December
+596,          Finlàndia  ,3039.0,December
+597,          França  ,52045.0,December
+598,          Grècia  ,1763.0,December
 599,          Hongria  ,923.0,December
-600,          Irlanda  ,3.527,December
-601,          Itàlia  ,40.082,December
+600,          Irlanda  ,3527.0,December
+601,          Itàlia  ,40082.0,December
 602,          Letònia  ,240.0,December
 603,          Lituània  ,674.0,December
 604,          Luxemburg  ,447.0,December
 605,          Malta  ,160.0,December
-606,          Països Baixos  ,8.477,December
-607,          Polònia  ,3.672,December
-608,          Portugal  ,7.608,December
-609,          Regne Unit  ,33.549,December
+606,          Països Baixos  ,8477.0,December
+607,          Polònia  ,3672.0,December
+608,          Portugal  ,7608.0,December
+609,          Regne Unit  ,33549.0,December
 610,          Republica Checa  ,963.0,December
-611,          Romania  ,2.132,December
-612,          Suècia  ,3.82,December
-613,          Resta Unió Europea  ,2.857,December
+611,          Romania  ,2132.0,December
+612,          Suècia  ,3820.0,December
+613,          Resta Unió Europea  ,2857.0,December
 614,          Islàndia  ,234.0,December
 615,          Liechtenstein  ,101.0,December
-616,          Noruega  ,2.801,December
-617,          Rússia  ,7.636,December
-618,          Suïssa  ,8.596,December
-619,          Turquia  ,2.197,December
-620,          Ucraïna  ,1.159,December
-621,          Resta d'Europa  ,7.367,December
-622,          Argentina  ,4.042,December
-623,          Brasil  ,5.978,December
-624,          Canada  ,3.643,December
-625,          Estats Units  ,29.024,December
-626,          Mèxic  ,2.692,December
-627,          Resta d'Amèrica   ,11.218,December
+616,          Noruega  ,2801.0,December
+617,          Rússia  ,7636.0,December
+618,          Suïssa  ,8596.0,December
+619,          Turquia  ,2197.0,December
+620,          Ucraïna  ,1159.0,December
+621,          Resta d'Europa  ,7367.0,December
+622,          Argentina  ,4042.0,December
+623,          Brasil  ,5978.0,December
+624,          Canada  ,3643.0,December
+625,          Estats Units  ,29024.0,December
+626,          Mèxic  ,2692.0,December
+627,          Resta d'Amèrica   ,11218.0,December
 628,          Sudàfrica  ,856.0,December
-629,          Resta d'Àfrica  ,10.521,December
-630,          Japó  ,11.539,December
-631,          Xina  ,9.833,December
-632,          Corea Del Sud  ,3.746,December
-633,          Resta d'Àsia  ,20.534,December
-634,          Austràlia  ,3.199,December
-635,          Resta del món  ,20.482,December
+629,          Resta d'Àfrica  ,10521.0,December
+630,          Japó  ,11539.0,December
+631,          Xina  ,9833.0,December
+632,          Corea Del Sud  ,3746.0,December
+633,          Resta d'Àsia  ,20534.0,December
+634,          Austràlia  ,3199.0,December
+635,          Resta del món  ,20482.0,December
